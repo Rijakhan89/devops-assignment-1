@@ -1,0 +1,5 @@
+Name: Rija Khan
+Course: DevOps
+Assignment: 1
+Topic: GitHub Account and Repository Setup
+Learning Goal: Understand basic version control and repository management.
