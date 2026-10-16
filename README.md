@@ -22,3 +22,6 @@ I learned that GitHub is an online platform for storing and managing project fil
 ## Tools Used
 - GitHub website
 - Web browser
+
+## Branch Practice
+I created the assignment-notes branch to practise isolated changes.
